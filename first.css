@@ -9,4 +9,8 @@ header{
 body{
     background-color: antiquewhite;
 }
-
+head{
+    color:aqua;
+    background-color: aqua;
+    row-gap: 1;
+}
